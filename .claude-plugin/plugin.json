@@ -1,0 +1,12 @@
+{
+  "name": "gia-prospecting",
+  "description": "AI-powered lead generation and outreach automation. Find prospects, research companies, and draft personalized cold emails. Powered by GIA governance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Advanced Consulting Experts, LLC",
+    "url": "https://aceexperts.org"
+  },
+  "homepage": "https://aceexperts.org/gia",
+  "repository": "https://github.com/knowledgepa3/gia-prospecting-engine",
+  "license": "MIT"
+}
